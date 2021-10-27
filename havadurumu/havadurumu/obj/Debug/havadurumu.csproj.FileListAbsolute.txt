@@ -1,0 +1,13 @@
+C:\Users\mevlüt\Desktop\havadurumu\havadurumu\havadurumu\obj\Debug\havadurumu.csprojAssemblyReference.cache
+C:\Users\mevlüt\Desktop\havadurumu\havadurumu\havadurumu\obj\Debug\havadurumu.Form1.resources
+C:\Users\mevlüt\Desktop\havadurumu\havadurumu\havadurumu\obj\Debug\havadurumu.Properties.Resources.resources
+C:\Users\mevlüt\Desktop\havadurumu\havadurumu\havadurumu\obj\Debug\havadurumu.csproj.GenerateResource.cache
+C:\Users\mevlüt\Desktop\havadurumu\havadurumu\havadurumu\obj\Debug\havadurumu.csproj.CoreCompileInputs.cache
+C:\Users\mevlüt\Desktop\havadurumu\havadurumu\havadurumu\bin\Debug\havadurumu.exe.config
+C:\Users\mevlüt\Desktop\havadurumu\havadurumu\havadurumu\bin\Debug\havadurumu.exe
+C:\Users\mevlüt\Desktop\havadurumu\havadurumu\havadurumu\bin\Debug\havadurumu.pdb
+C:\Users\mevlüt\Desktop\havadurumu\havadurumu\havadurumu\obj\Debug\havadurumu.exe
+C:\Users\mevlüt\Desktop\havadurumu\havadurumu\havadurumu\obj\Debug\havadurumu.pdb
+C:\Users\mevlüt\Desktop\havadurumu\havadurumu\havadurumu\obj\Debug\havadurumu.Form2.resources
+C:\Users\mevlüt\Desktop\havadurumu\havadurumu\havadurumu\obj\Debug\havadurumu.Form3.resources
+C:\Users\mevlüt\Desktop\havadurumu\havadurumu\havadurumu\obj\Debug\havadurumu.Form4.resources
